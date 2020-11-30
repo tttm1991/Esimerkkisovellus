@@ -1,0 +1,5 @@
+[1124/145334.336:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
+[1124/170116.024:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\tttm1\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\88dd184e-4eb2-49b4-ae83-d94cd260de1d: Määritettyä polkua ei löydy. (0x3)
+[1124/170116.056:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: Toiminto suoritettiin. (0x0)
+[1130/100332.063:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
+[1130/103226.647:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
